@@ -56,7 +56,7 @@ List of the Components you can connect to the PCB
 6. 1 I2C device (SCL/SDA Device, display, MPU6050 etc)
 7. 2 Stepper motors
 
-I have design circuit and PCB ineasy EDA and ordered PCB from JLCPCB.COM
+I have design circuit and PCB in easyEDA and ordered PCB from JLCPCB.COM
 
 JLCPCB.COM are the world leader in PCB manufacturing there PCB production rates are very much affordable and they 
 have world class PCB production unit results fast PCB production.
@@ -67,22 +67,22 @@ https://oshwlab.com/sharmaz747/multipurpose-pcb
 Recently i came to know about PCB + SMT service of JLCPCB.COM like JLCPCB offering complete PCB with components solder on it. they have huge collection of components to choose from. this was so much help full for me it save my lots of time and money by using PCB + SMT service of https://jlcpcb.com/IAT and now there is also one good news for you you can now earn 10$ coupon for from JLCPCB just use https://easyeda.com/editor to design your PCB and order it from https://jlcpcb.com/IAT Design & Order on EasyEDA, PCB+SMT $10 Off: https://easyeda.com/editor Get $10 coupon & Join JLC&EDA Group: https://jlcpcb.com/EDA https://www.youtube.com/watch?v=rUtlYrG-U5g Watch full video https://www.youtube.com/watch?v=R9FUyvKBm8k
 
 ## USER INTERFACE ##
-In order to do winding user have to provide following datas
+In order to do winding user have to provide following data
 1. Wire dia
 2. Width of Coil
 3. Number of turn
 
 for user interface I have used a Netion HMI 2.8" Using HMI is very good for such projects
-becuase you will get nice cool user interface and no need to do wiring for any other componets like
-pucsh buttons, knob, sliders etc.
-all of such components we can desinge in HMI it self
-This HMI is embedded with STM32 uController onboard means ther is no extra liad of 
-GUI on arduino only Serial compunication between arduino and HMI.
+because you will get nice cool user interface and no need to do wiring for any other components like
+push buttons, knob, sliders etc.
+all of such components we can design in HMI it self
+This HMI is embedded with STM32 uController on board means there is no extra load of 
+GUI on arduino only Serial communication between arduino and HMI.
 
 
 ## ARDUINO CODE & HMI CODE ##
-Please douwnload the code attached 
+Please download the code attached 
 to upload HMI code you need to first download and install Nextion HMI editor 
 https://nextion.tech/nextion-editor/
-please note that HMI coode is version sensative it works on with Nextion NX3224K028 2.8''HMI
+please note that HMI code is version sensitive it works on with Nextion NX3224K028 2.8''HMI
 
