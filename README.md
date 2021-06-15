@@ -80,3 +80,9 @@ This HMI is embedded with STM32 uController onboard means ther is no extra liad 
 GUI on arduino only Serial compunication between arduino and HMI.
 
 
+## ARDUINO CODE & HMI CODE ##
+Please douwnload the code attached 
+to upload HMI code you need to first download and install Nextion HMI editor 
+https://nextion.tech/nextion-editor/
+please note that HMI coode is version sensative it works on with Nextion NX3224K028 2.8''HMI
+
