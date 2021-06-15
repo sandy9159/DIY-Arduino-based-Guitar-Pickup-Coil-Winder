@@ -26,3 +26,57 @@ Followings are the components used in this project.
 8. 8MM T8 Lead screw 100mm long - https://amzn.to/2RW2ch7
 9. Stepper motor coupler        - https://amzn.to/35nDBF8
 10. Nextion NX3224K028 2.8''HMI - https://amzn.to/2TuYOu7
+
+
+## MULTIPURPOSE PCB ##
+Making such projects without PCB is night mare yes trust me
+you cannot get wanted result and professional touch in your project if you ignore PCB
+So some days back I have developed my Multipurpose PCB.
+This PCB is used to build wide range of arduino projects 
+
+followings are the some features of PCB
+
+1. Wide range of power input 9V to 24V DC
+2. Cross polarity protection
+3. DC motor voltage selection 9V or 12 V DC
+4. Servo motor voltage selection 5V or 9V DC
+5. Manual microstepping setting for stepper motor
+6. Power indication LED
+7. L298N IC for heavier DC motor
+8. ON board 5V and 9V regulator no need to arrange different power sources
+9. Header pins and screw terminals for easy connections
+
+List of the Components you can connect to the PCB
+
+1. 2 DC motor ( 9V to 24V DC)
+2. 2 Potentiometer
+3. 2 Servo motors ( 5V to 9V DC)
+4. 1 Serial device (BT module, HMI, Communication module, RX, TX)
+5. 1 Encoder (2 interrupt pin & 1 PB pin)
+6. 1 I2C device (SCL/SDA Device, display, MPU6050 etc)
+7. 2 Stepper motors
+
+I have design circuit and PCB ineasy EDA and ordered PCB from JLCPCB.COM
+
+JLCPCB.COM are the world leader in PCB manufacturing there PCB production rates are very much affordable and they 
+have world class PCB production unit results fast PCB production.
+
+If you Need this PCB below is the link of PCB 
+https://oshwlab.com/sharmaz747/multipurpose-pcb
+
+Recently i came to know about PCB + SMT service of JLCPCB.COM like JLCPCB offering complete PCB with components solder on it. they have huge collection of components to choose from. this was so much help full for me it save my lots of time and money by using PCB + SMT service of https://jlcpcb.com/IAT and now there is also one good news for you you can now earn 10$ coupon for from JLCPCB just use https://easyeda.com/editor to design your PCB and order it from https://jlcpcb.com/IAT Design & Order on EasyEDA, PCB+SMT $10 Off: https://easyeda.com/editor Get $10 coupon & Join JLC&EDA Group: https://jlcpcb.com/EDA https://www.youtube.com/watch?v=rUtlYrG-U5g Watch full video https://www.youtube.com/watch?v=R9FUyvKBm8k
+
+## USER INTERFACE ##
+In order to do winding user have to provide following datas
+1. Wire dia
+2. Width of Coil
+3. Number of turn
+
+for user interface I have used a Netion HMI 2.8" Using HMI is very good for such projects
+becuase you will get nice cool user interface and no need to do wiring for any other componets like
+pucsh buttons, knob, sliders etc.
+all of such components we can desinge in HMI it self
+This HMI is embedded with STM32 uController onboard means ther is no extra liad of 
+GUI on arduino only Serial compunication between arduino and HMI.
+
+
