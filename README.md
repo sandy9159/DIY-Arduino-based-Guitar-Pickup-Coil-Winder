@@ -77,6 +77,8 @@ https://oshwlab.com/sharmaz747/multipurpose-pcb
 Recently i came to know about PCB + SMT service of JLCPCB.COM like JLCPCB offering complete PCB with components solder on it. they have huge collection of components to choose from. this was so much help full for me it save my lots of time and money by using PCB + SMT service of https://jlcpcb.com/IAT and now there is also one good news for you you can now earn 10$ coupon for from JLCPCB just use https://easyeda.com/editor to design your PCB and order it from https://jlcpcb.com/IAT Design & Order on EasyEDA, PCB+SMT $10 Off: https://easyeda.com/editor Get $10 coupon & Join JLC&EDA Group: https://jlcpcb.com/EDA https://www.youtube.com/watch?v=rUtlYrG-U5g Watch full video https://www.youtube.com/watch?v=R9FUyvKBm8k
 
 ## USER INTERFACE ##
+![hmi](https://user-images.githubusercontent.com/19898602/122648798-6490e500-d148-11eb-8201-ceefd997b356.JPG)
+
 In order to do winding user have to provide following data
 1. Wire dia
 2. Width of Coil
@@ -88,6 +90,7 @@ push buttons, knob, sliders etc.
 all of such components we can design in HMI it self
 This HMI is embedded with STM32 uController on board means there is no extra load of 
 GUI on arduino only Serial communication between arduino and HMI.
+![nextion](https://user-images.githubusercontent.com/19898602/122649375-277a2200-d14b-11eb-8632-72f7e4cdf741.JPG)
 
 
 ## ARDUINO CODE & HMI CODE ##
