@@ -75,15 +75,14 @@ List of the Components you can connect to the PCB
 ![component](https://user-images.githubusercontent.com/19898602/122632849-01289800-d0f3-11eb-970a-53fc1b6e0b58.jpg)
 
 
-I have design circuit and PCB in easyEDA and ordered PCB from JLCPCB.COM
+I have design circuit and PCB in [easyEDA](https://easyeda.com/) and ordered PCB from [JLCPCB](JLCPCB.COM)
 
-[JLCPCB](JLCPCB.COM) are the world leader in PCB manufacturing there PCB production rates are very much affordable and they 
-have world class PCB production unit results fast PCB production.
+This is the link of [PCB editabl file](https://oshwlab.com/sharmaz747/multipurpose-pcb)
 
-If you Need this PCB below is the link of PCB 
-https://oshwlab.com/sharmaz747/multipurpose-pcb
+If you seriously need quality PCB quickly in your hand then you must have to try [JLCPCB](JLCPCB.COM) PCB manufacturing service.
+They have Special offer of $2 for 1-4 Layer PCBs, free SMT assembly monthly.
+If you get yourself registered today at [JLCPCB](JLCPCB.COM) you get 18$ welcome coupon from [JLCPCB](JLCPCB.COM).
 
-Recently i came to know about PCB + SMT service of JLCPCB.COM like JLCPCB offering complete PCB with components solder on it. they have huge collection of components to choose from. this was so much help full for me it save my lots of time and money by using PCB + SMT service of https://jlcpcb.com/IAT and now there is also one good news for you you can now earn 10$ coupon for from JLCPCB just use https://easyeda.com/editor to design your PCB and order it from https://jlcpcb.com/IAT Design & Order on EasyEDA, PCB+SMT $10 Off: https://easyeda.com/editor Get $10 coupon & Join JLC&EDA Group: https://jlcpcb.com/EDA https://www.youtube.com/watch?v=rUtlYrG-U5g Watch full video https://www.youtube.com/watch?v=R9FUyvKBm8k
 
 ## USER INTERFACE ##
 ![hmi](https://user-images.githubusercontent.com/19898602/122648798-6490e500-d148-11eb-8201-ceefd997b356.JPG)
