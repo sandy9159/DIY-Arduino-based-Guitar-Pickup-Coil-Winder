@@ -11,6 +11,15 @@ so I build this mini machine,
 I have used two stepper motors in this project and HMI for user interface.
 and I have used a multipurpose PCB for this project.
 
+
+![guitar coil](https://user-images.githubusercontent.com/19898602/122649537-df0f3400-d14b-11eb-91c3-28f42fc6c3fd.JPG)
+
+This is the guitar pickup coil this is the esential part of electric guitars. A single coil pickup is a type of magnetic transducer, 
+or pickup, for the electric guitar and the electric bass. It electromagnetically converts the vibration of the strings to an electric signal. 
+Single coil pickups are one of the two most popular designs, along with dual-coil or "humbucking" pickups.
+
+
+
 ## VIDEO ##
 First of all please watch the complete video I have shown there
 complete steps how to build a pickup coil winder machine 
