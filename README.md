@@ -77,7 +77,7 @@ List of the Components you can connect to the PCB
 
 I have design circuit and PCB in easyEDA and ordered PCB from JLCPCB.COM
 
-JLCPCB.COM are the world leader in PCB manufacturing there PCB production rates are very much affordable and they 
+[JLCPCB](JLCPCB.COM) are the world leader in PCB manufacturing there PCB production rates are very much affordable and they 
 have world class PCB production unit results fast PCB production.
 
 If you Need this PCB below is the link of PCB 
