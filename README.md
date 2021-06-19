@@ -90,6 +90,8 @@ push buttons, knob, sliders etc.
 all of such components we can design in HMI it self
 This HMI is embedded with STM32 uController on board means there is no extra load of 
 GUI on arduino only Serial communication between arduino and HMI.
+
+
 ![nextion](https://user-images.githubusercontent.com/19898602/122649375-277a2200-d14b-11eb-8632-72f7e4cdf741.JPG)
 
 
