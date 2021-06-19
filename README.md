@@ -85,6 +85,35 @@ If you seriously need quality PCB quickly in your hand then you must have to try
 They have Special offer of $2 for 1-4 Layer PCBs, free SMT assembly monthly.
 If you get yourself registered today at [JLCPCB](JLCPCB.COM) you get 18$ welcome coupon from [JLCPCB](JLCPCB.COM).
 
+## Machine constrction
+![1](https://user-images.githubusercontent.com/19898602/122650342-f5b78a00-d14f-11eb-8fdc-039de0ea8dfd.JPG)
+
+First I cut the wooden based of size 120 x 120 mm of 12 mm thick.
+we are going to mount all of the machine parts on to this board.
+
+![2](https://user-images.githubusercontent.com/19898602/122650355-00721f00-d150-11eb-87ef-6295e5ad9b33.JPG)
+
+Here I marked the mounting hole location for nema 17 stepper motor
+and drilled them with the help of drill machine.
+and bigger holes are made by using hole saw cutter
+
+![3](https://user-images.githubusercontent.com/19898602/122650357-01a34c00-d150-11eb-8d1b-d35e7daa7628.JPG)
+
+Then I have mounted the NEMA 17 motor bracket on the base with the help of screw.
+
+![5](https://user-images.githubusercontent.com/19898602/122650360-023be280-d150-11eb-8f94-4b4b220f7116.JPG)
+
+In this project, we are going to use two stepper motors.
+one for the coil winder and one for copper wire guider.
+both of this stepper motors are controlled with A4988 stepper motor driver IC.
+
+![6](https://user-images.githubusercontent.com/19898602/122650361-02d47900-d150-11eb-9437-14e651085fa0.JPG)
+
+This is the copper wire guider assembly here I 3D printed the basic part of guider.
+Then I mounted two 8mm linear bearing and one T8 lead screw Nut.
+In this way the construction of machine is completed now we can move towards the pogramming & HMI part.
+
+
 
 ## USER INTERFACE ##
 ![hmi](https://user-images.githubusercontent.com/19898602/122648798-6490e500-d148-11eb-8201-ceefd997b356.JPG)
