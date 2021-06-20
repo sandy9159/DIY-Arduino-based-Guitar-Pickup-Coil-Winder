@@ -113,7 +113,8 @@ This is the copper wire guider assembly here I 3D printed the basic part of guid
 Then I mounted two 8mm linear bearing and one T8 lead screw Nut.
 In this way the construction of machine is completed now we can move towards the pogramming & HMI part.
 
-![MVI_0002_2 00_10_07_10 Still001](https://user-images.githubusercontent.com/19898602/122682513-7ab9a680-d217-11eb-9ebd-e1c19ca01eb2.jpg)
+![MVI_0002_2 00_10_07_10 Still001](https://user-images.githubusercontent.com/19898602/122683354-38df2f00-d21c-11eb-819e-dab950b7ccd9.jpg)
+
 
 
 ## USER INTERFACE ##
