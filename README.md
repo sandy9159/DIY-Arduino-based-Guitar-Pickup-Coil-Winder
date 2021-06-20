@@ -77,13 +77,13 @@ List of the Components you can connect to the PCB
 ![component](https://user-images.githubusercontent.com/19898602/122632849-01289800-d0f3-11eb-970a-53fc1b6e0b58.jpg)
 
 
-I have design circuit and PCB in [easyEDA](https://easyeda.com/) and ordered PCB from [JLCPCB](JLCPCB.COM)
+I have design circuit and PCB in [easyEDA](https://easyeda.com/) and ordered PCB from [JLCPCB](https://jlcpcb.com/IAT )
 
 This is the link of [PCB editabl file](https://oshwlab.com/sharmaz747/multipurpose-pcb)
 
-If you seriously need quality PCB quickly in your hand then you must have to try [JLCPCB](JLCPCB.COM) PCB manufacturing service.
+If you seriously need quality PCB quickly in your hand then you must have to try [JLCPCB](https://jlcpcb.com/IAT ) PCB manufacturing service.
 They have Special offer of $2 for 1-4 Layer PCBs, free SMT assembly monthly.
-If you get yourself registered today at [JLCPCB](JLCPCB.COM) you get 18$ welcome coupon from [JLCPCB](JLCPCB.COM).
+If you get yourself registered today at [JLCPCB](https://jlcpcb.com/IAT ) you get 18$ welcome coupon from [JLCPCB](https://jlcpcb.com/IAT ).
 
 ## Machine constrction
 ![1](https://user-images.githubusercontent.com/19898602/122650342-f5b78a00-d14f-11eb-8fdc-039de0ea8dfd.JPG)
